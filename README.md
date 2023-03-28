@@ -10,3 +10,5 @@ The dataset used in this project was obtained from [Kaggle](https://www.kaggle.c
 
 - Python
 - Pandas
+
+[View the Jupyter Notebook](https://github.com/WitoldStupnicki/exploring-hacker-news-posts/blob/main/Exploring_Hacker_News_Posts.ipynb)
